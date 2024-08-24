@@ -1,11 +1,12 @@
 # DIY Oxygen Analyzer
-
+<div align="justify">
 Oxygen Analyzer is a device which measures Oxygen concentration in ambient Air, of Oxygen Cylinder, Oxygen Concentrator, Medical Ventilators, Incubators etc.
 It reads Oxygen Concentration in percentage (%).
 
 This repositiry will focus on Design and Development of Do-it-youself Oxygen Analyzer (ie designing Prototyping Board, Writing Code and Calibration).
 
 Here we will be also understanding the sensor, its Output voltage, mapping it to Oxygen concentration, calibration, testing and also logging data. 
+</div>
 
 <p align="center">
   <img src="/assets/img/OXYanalyzer_Proto_1.png">
