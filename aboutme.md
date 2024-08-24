@@ -1,16 +1,10 @@
 ---
+title: Ashish Kumar Pardeshi
+subtitle: M.Tech graduate in Embedded Systems, Hardware & Software Developer, Maker, Mentor
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+show-avatar: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![Ashish Kumar pardeshi ](/img/ashish2.jpg)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a Embedded System's Software and Hardware Developer with a M.Tech in Embedded Systems and a Bachelor degree in Electronics and Communication Engg. Previously a Senior engineer at Bosch, Pacetronix, and Project Scientific Officer at Tata Institute of Fundamental Research (TIFR). I love experimenting cooking, Tinkering and mentoring young kids on Science and technologies. I live in Bengaluru, India.
