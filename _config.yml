@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Ashish Pardeshi Website
+title: ashishWorkbench
 
 # Your name to show in the footer
 author: Ashish Pardeshi
@@ -21,10 +21,10 @@ author: Ashish Pardeshi
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Projects:
+    - DIY Oxygen Analyser: "https://ashishkumarpardeshi.github.io/2021-06-08-DIY-Oxygen-Analyser/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://ashishkumarpardeshi.github.io/"
 
 ################
 # --- Logo --- #
@@ -50,17 +50,17 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "meetashishpardeshi@gmail.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: Ashish Pardeshi
+  github: ashishkumarpardeshi
+  twitter: PardeshiAshishK
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+  whatsapp: 8770493906
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: Ashish Pardeshi
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
