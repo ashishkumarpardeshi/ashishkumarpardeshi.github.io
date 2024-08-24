@@ -8,11 +8,11 @@ This repositiry will focus on Design and Development of Do-it-youself Oxygen Ana
 Here we will be also understanding the sensor, its Output voltage, mapping it to Oxygen concentration, calibration, testing and also logging data. 
 
 <p align="center">
-  <img src="Oxygen_Analyzer_KiCAD/Board_3D_Images/OXYanalyzer_Proto_1.png">
+  <img src="/assets/img/OXYanalyzer_Proto_1.png">
 </p>
 
 <p align="center">
-  <img src="Docs and Tutorials/assets/proto2.jpg">
+  <img src="/assets/img/proto2.jpg">
 </p>
 
 
@@ -74,7 +74,7 @@ Here we will be also understanding the sensor, its Output voltage, mapping it to
 <br>
 
 <p align="center">
-  <img src="Docs and Tutorials/assets/DIY_Oxy_Analyzer.jpg">
+  <img src="/assets/img/DIY_Oxy_Analyzer.jpg">
 </p>
 
 ### In this development we will be using the following components:
@@ -96,7 +96,7 @@ Here we will be also understanding the sensor, its Output voltage, mapping it to
 OOM202 is a medical grade oxygen sensor made in germany by Honeywell.
 
 <p align="center">
-  <img src="Docs and Tutorials/assets/OOM202 Image.png">
+  <img src="/assets/img/OOM202 Image.png">
 </p>
 
 
@@ -117,7 +117,7 @@ Some important parameters of OOM202 Oxygen Sensor to be consider.
 The Sensor has 3 pin to interface it with ADC, out of which 2-pins are marked '-' (negative) and 1-pin is marked '+' (positive).
 
 <p align="center">
-  <img src="Docs and Tutorials/assets/OOM202_Pinmap.png">
+  <img src="/assets/img/OOM202_Pinmap.png">
 </p>
 
 The Positive will connect to any of the four Analog Channel of ADS1115 (In this design it is connected A0) and any one negative pin is connected to GND.
@@ -246,7 +246,7 @@ The Breadboard prototype is exposed to known sample of oxygen and other gases. T
 **For 99.7% Oxygen of Known Sample and considering the baseline sensor voltage 15.4 mV for 20.9% oxygen  the readings Screenshot is given below:**
 
 <p align="center">
-  <img src="Docs and Tutorials/assets/readings_2.jpg">
+  <img src="/assets/img/readings_2.jpg">
 </p>
 
 Here the prototype is reading 100 % to 103.82 % for Known Oxygen of 99.7%, we need to write the calibration code and fixing the error as well as saturate the readings for 100 %.
@@ -256,7 +256,7 @@ Here the prototype is reading 100 % to 103.82 % for Known Oxygen of 99.7%, we ne
 **For Helium Gas where Oxygen is 0 %**
 
 <p align="center">
-  <img src="Docs and Tutorials/assets/readings_1.jpg">
+  <img src="/assets/img/readings_1.jpg">
 </p>
 
 The breadboard prototype here also working fine in the range with negligible error and thus can be corrected with calibration.
