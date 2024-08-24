@@ -1,4 +1,14 @@
-# DIY Oxygen Analyzer
+---
+layout: post
+title: DIY Oxygen Analyzer
+subtitle: Design and Development of DIY Oxygen Analyzer
+cover-img: /assets/img/proto2.jpg
+thumbnail-img: /assets/img/DIY_Oxy_Analyzer.jpg
+share-img: /assets/img/path.jpg
+tags: [esp32, design, embedded_C]
+author: Ashish Kumar Pardeshi
+---
+
 <div align="justify">
 Oxygen Analyzer is a device which measures Oxygen concentration in ambient Air, of Oxygen Cylinder, Oxygen Concentrator, Medical Ventilators, Incubators etc.
 It reads Oxygen Concentration in percentage (%).
@@ -189,7 +199,7 @@ The Sensor is straight forward to use and require external high resolution ADC t
 ADS1115 has High Precision 16-Bit ADC and also includes Programmable Gain Amplifier upto 16x, to boost up smaller signal/differential signal to full range.
 
 <p align="center">
-  <img src="Docs and Tutorials/assets/ADS1115.jpeg">
+  <img src="/assets/img/ADS1115.jpeg">
 </p>
 
 The Datasheet of this ADS1115 can be found here: [**ADS1115_Datasheet**](Datasheets/ads1115.pdf)
@@ -267,7 +277,7 @@ The breadboard prototype here also working fine in the range with negligible err
 The schematic is designed in [KiCAD](https://www.kicad.org/), an Open Source PCB designing CAD software.
 
 <p align="center">
-  <img src="Docs and Tutorials/assets/Schematic.png">
+  <img src="/assets/img/Schematic.png">
 </p>
 
 This schematic PDF can be downloaded from here [DIY_Oxygen_Analyzer_Schematic_PDF](Oxygen_Analyzer_KiCAD/Schematic_Pdf/DIY_Oxygen_Analyzer.pdf)
@@ -288,5 +298,5 @@ This schematic PDF can be downloaded from here [DIY_Oxygen_Analyzer_Schematic_PD
 
 - Distributed under the  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 <p align="center">
-  <img src="Docs and Tutorials/assets/CC-SA.png">
+  <img src="/assets/img/CC-SA.png">
 </p>
