@@ -2,9 +2,9 @@
 layout: post
 title: LCD 16x2 Interfacing with STM32
 subtitle: Interfacing and Programming LCD 16x2
-cover-img: /assets/img/proto2.jpg
-thumbnail-img: /assets/img/lcdsch.jpg
-share-img: /assets/img/lcd1.jpg
+cover-img: /assets/img/lcdsch.jpg
+thumbnail-img: /assets/img/lcd1.jpg
+share-img: /assets/img/lcdsch.jpg
 tags: [stm32, lcd16x2, display, driver ]
 author: Ashish Kumar Pardeshi
 ---
