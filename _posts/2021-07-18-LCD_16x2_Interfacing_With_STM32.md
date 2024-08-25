@@ -2,7 +2,7 @@
 layout: post
 title: LCD 16x2 Interfacing with STM32
 subtitle: Interfacing and Programming LCD 16x2
-cover-img: /assets/img/lcdsch.jpg
+cover-img: /assets/img/lcd3.jpg
 thumbnail-img: /assets/img/lcd1.jpg
 share-img: /assets/img/lcdsch.jpg
 tags: [stm32, lcd16x2, display, driver ]
@@ -33,8 +33,6 @@ Small displays are awesome for displaying data for any Embedded System. It is al
   - [LCD 16x2 Commands Sequences](#lcd-16x2-commands-sequences)
 
   - [Lets Get into Writing LCD Driver](#lets-get-into-writing-lcd-driver)
-
-  - [Acknowledgements and Resources](#acknowledgements-and-resources)
 
   - [License](#license)
 
@@ -70,7 +68,7 @@ LCD 16x2 is one of the most popular display in Embedded system.
 
 
 <p align="center">
-  <img src="/assets/img/LCD16*2.png">
+  <img src="/assets/img/LCD16x2.png">
 </p>
 
 <br>
