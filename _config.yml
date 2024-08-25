@@ -20,6 +20,7 @@ author: Ashish Pardeshi
 ###############################################
 
 navbar-links:
+  blog: "/"
   About Me: "aboutme"
   Projects:
     - DIY Oxygen Analyser: "https://ashishkumarpardeshi.github.io/2021-06-08-DIY-Oxygen-Analyser/"
@@ -100,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "ashishkumarpardeshi.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -149,7 +150,7 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/ashishworkbench_spi.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
