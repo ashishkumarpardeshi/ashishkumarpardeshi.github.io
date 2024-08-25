@@ -27,9 +27,12 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
   #Publications:
   #	- Smart Dashboard for Two Wheelers: "https://link.springer.com/chapter/10.1007/978-3-319-47952-1_79"
-  #  - Can We Reimagine STEM Learning?: "https://repository.isls.org/handle/1/6549"
-  #  - Nudging students’ designs: "https://azimpremjiuniversity.edu.in/nudging-students-designs"
-  Publications: "https://ashishkumarpardeshi.github.io/"
+  # - Can We Reimagine STEM Learning?: "https://repository.isls.org/handle/1/6549"
+  # - Nudging students’ designs: "https://azimpremjiuniversity.edu.in/nudging-students-designs"
+  Publications:
+  	- Smart Dashboard for Two Wheelers: "https://link.springer.com/chapter/10.1007/978-3-319-47952-1_79"
+    - Can We Reimagine STEM Learning: "https://repository.isls.org/handle/1/6549"
+    - Nudging students designs: "https://azimpremjiuniversity.edu.in/nudging-students-designs"
 
 ################
 # --- Logo --- #
@@ -303,5 +306,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
+# Beautiful Jekyll / ashishWorkbench
 # 2fc73a3a967e97599c9763d05e564189
