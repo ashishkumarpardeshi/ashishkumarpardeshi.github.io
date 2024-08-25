@@ -1,4 +1,13 @@
-# LCD 16x2 Interfacing with STM32
+---
+layout: post
+title: LCD 16x2 Interfacing with STM32
+subtitle: Interfacing and Programming LCD 16x2
+cover-img: /assets/img/proto2.jpg
+thumbnail-img: /assets/img/lcdsch.jpg
+share-img: /assets/img/lcd1.jpg
+tags: [stm32, lcd16x2, display, driver ]
+author: Ashish Kumar Pardeshi
+---
 
 Small displays are awesome for displaying data for any Embedded System. It is always fun to play around these displays.
 
