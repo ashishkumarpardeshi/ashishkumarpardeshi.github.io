@@ -24,6 +24,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - DIY Oxygen Analyser: "https://ashishkumarpardeshi.github.io/2021-06-08-DIY-Oxygen-Analyser/"
+    - LCD 16x2 Interfacing with STM32: "https://ashishkumarpardeshi.github.io/2021-07-18-LCD_16x2_Interfacing_With_STM32/"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Publications:
     - Smart Dashboard for Two Wheelers: "https://link.springer.com/chapter/10.1007/978-3-319-47952-1_79"
