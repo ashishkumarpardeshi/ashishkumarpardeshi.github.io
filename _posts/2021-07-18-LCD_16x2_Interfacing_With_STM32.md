@@ -12,7 +12,7 @@ author: Ashish Kumar Pardeshi
 Small displays are awesome for displaying data for any Embedded System. It is always fun to play around these displays.
 
 <p align="center">
-  <img src="./Assets/lcd6.jpg">
+  <img src="/assets/img/lcd6.jpg">
 </p>
 
 ## Table of Contents
@@ -70,7 +70,7 @@ LCD 16x2 is one of the most popular display in Embedded system.
 
 
 <p align="center">
-  <img src="./Assets/LCD16*2.png">
+  <img src="/assets/img/LCD16*2.png">
 </p>
 
 <br>
@@ -106,7 +106,7 @@ LCD 16x2 is one of the most popular display in Embedded system.
 ## LCD 16x2 Interfacing with Bluepill
 
 <p align="center">
-  <img src="./Assets/lcdsch.jpg">
+  <img src="/assets/img/lcdsch.jpg">
 </p>
 
 **Control Pins**
@@ -139,7 +139,7 @@ LCD 16x2 is one of the most popular display in Embedded system.
 Below is the image of some of the commands given in datasheet.
 
 <p align="center">
-  <img src="./Assets/LCD_Instructions.png">
+  <img src="/assets/img/LCD_Instructions.png">
 </p>
 
 
@@ -263,7 +263,6 @@ STM32f103xx_lcd_driver.h is the header file for alphanumeric LCD driver and it w
 So lets start writing this header file.
 
 ```C
-
 #ifndef STM32F103XX_LCD_DRIVER_H_
 #define STM32F103XX_LCD_DRIVER_H_
 
@@ -312,12 +311,6 @@ So lets start writing this header file.
 //-----------------------------------------------------------------
 ```
 
-
-<br>
-
-## Acknowledgements and Resources
-
-
 <br>
 
 ## License
@@ -325,7 +318,7 @@ So lets start writing this header file.
 
 - Distributed under the  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 <p align="center">
-  <img src="./Assets/CC-SA.png">
+  <img src="/assets/img/CC-SA.png">
 </p>
 
 
