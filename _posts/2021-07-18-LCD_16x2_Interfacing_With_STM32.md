@@ -260,7 +260,7 @@ STM32f103xx_lcd_driver.h is the header file for alphanumeric LCD driver and it w
 
 So lets start writing this header file.
 
-{% highlight javascript linenos %}
+{% highlight c linenos %}
 #ifndef STM32F103XX_LCD_DRIVER_H_
 #define STM32F103XX_LCD_DRIVER_H_
 
@@ -307,6 +307,7 @@ So lets start writing this header file.
 #define LCD_D7_PIN			GPIO_PIN_NO_5
 
 //-----------------------------------------------------------------
+
 {% endhighlight %}
 
 <br>
