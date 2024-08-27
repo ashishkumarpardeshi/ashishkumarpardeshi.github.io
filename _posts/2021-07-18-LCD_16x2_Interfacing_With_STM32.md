@@ -68,7 +68,7 @@ LCD 16x2 is one of the most popular display in Embedded system.
 
 
 <p align="center">
-  <img src="/assets/img/LCD16x2.png">
+  <img src="/assets/img/LCD16_2.png">
 </p>
 
 <br>
