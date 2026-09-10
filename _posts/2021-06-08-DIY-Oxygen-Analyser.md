@@ -74,7 +74,7 @@ Here we will be also understanding the sensor, its Output voltage, mapping it to
 
    - [Testing with Helium Gas](#testing-with-helium-gas)
 
-- [Schematic Design](#schematic-Design)
+- [Schematic Design](#schematic-design)
 
 - [Acknowledgement and Resources](#acknowledgement-and-resources)
 
@@ -280,7 +280,7 @@ The schematic is designed in [KiCAD](https://www.kicad.org/), an Open Source PCB
   <img src="/assets/img/Schematic.png">
 </p>
 
-This schematic PDF can be downloaded from here [DIY_Oxygen_Analyzer_Schematic_PDF](Oxygen_Analyzer_KiCAD/Schematic_Pdf/DIY_Oxygen_Analyzer.pdf)
+This schematic PDF can be downloaded from here [DIY_Oxygen_Analyzer_Schematic_PDF](https://github.com/ashishkumarpardeshi/DIY_Oxygen_Analyzer/blob/master/Oxygen_Analyzer_KiCAD/Schematic_Pdf/DIY_Oxygen_Analyzer.pdf)
 
 
 
